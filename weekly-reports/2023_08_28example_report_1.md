@@ -7,4 +7,5 @@ type some text
 ### summary/reflection/speculation
 this is regular text
 **this is bold text
+
 [here](https://bcourses.berkeley.edu/courses/1528355)
