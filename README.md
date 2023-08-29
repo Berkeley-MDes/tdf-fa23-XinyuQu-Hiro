@@ -1,5 +1,7 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Qu Xinyu Hiro's Document
+
+## Week one report
+
 
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
@@ -24,20 +26,5 @@ or, if you prefer, you can create separate files and link to them here, like so:
 [Example Report 1](weekly-reports/example-report-1.md)
 ---
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
-
-sparkles,
-
-your TDF TA, shm :sparkles:
-
-PS: let me know if you have any questions!!
-
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
 
 
