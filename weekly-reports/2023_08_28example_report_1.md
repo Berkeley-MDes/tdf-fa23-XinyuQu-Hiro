@@ -2,4 +2,4 @@
 
 type some text
 
-![white dog]_(https://www.thesprucepets.com/white-dog-breeds-4846529)
+![white dog](https://www.thelabradorsite.com/wp-content/uploads/2018/04/White-Dog-Breeds-The-Pups-As-Pure-As-Snow-LS-long.jpg)
