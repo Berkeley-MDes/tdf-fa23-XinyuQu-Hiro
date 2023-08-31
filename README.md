@@ -2,7 +2,9 @@
 
 ## Week one report
 
-
+### Breif：
+This week, I have completed the adjustments, output, and laser cutting process for existing files in Rhino and Grasshopper.
+!(PHONE STAND)[]
 
 
 The specific file that I’m typing into right now is the **README.md** for this repo. 
