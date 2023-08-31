@@ -4,7 +4,7 @@
 
 ### Breif：
 This week, I have completed the adjustments, output, and laser cutting process for existing files in Rhino and Grasshopper.
-![phone stand](https://raw.github.com/PIC/IMG_6572.jpeg)
+![phone stand](PIC/)
 
 
 The specific file that I’m typing into right now is the **README.md** for this repo. 
