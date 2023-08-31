@@ -25,4 +25,4 @@ I selected a piece of wood and measured its thickness. Then, I adjusted the mate
 Later, I assembled my phone stand and attempted to place my phone on it. I compared my standing position, opened the front-facing camera, and checked if the ergonomics were suitable for comfortable use.
 ![phone stand](PIC/IMG_6580.jpeg)
 
-
+I believe that by pre-measuring the individual dimensions and requirements of each person and using the same file to modify parameters for the battery assembly, it's possible to rapidly generate various files and engage in the intriguing process of fabrication. Throughout this process, I consider the utilization of computer-based measurements and AI assistance to be a trend that enables the mass production of customized products with greater efficiency and scalability.
