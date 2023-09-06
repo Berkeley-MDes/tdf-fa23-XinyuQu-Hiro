@@ -1,4 +1,14 @@
 # Qu Xinyu Hiro's Document
+## Week Two report
+This week I will adjust more about this cell phone stand
+first i will follow the youtube video to have more precise idea about grasshopper
+
+### there are questions about particular battery
+1. the negative battery： a negative height （"Negative" is typically used to represent negative values or to indicate numbers that are less than zero in mathematical calculations.）
+2. domain button："Domain" container typically includes two values, indicating the lower and upper bounds of the range. This is useful for defining the valid range of values for parameters, ensuring that models or designs stay within reasonable bounds during variations.
+3. void button：A "Void" is typically a user-defined function or component. It is often used to represent a virtual or a placeholder element that doesn't directly perform any specific actions.
+4. gravity and logic（the most interesting part in the video）
+![phone stand](PIC/IMG_6570.jpeg)
 
 ## Week one report
 
