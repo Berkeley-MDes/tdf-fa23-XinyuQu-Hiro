@@ -9,7 +9,10 @@ first i will follow the youtube video to have more precise idea about grasshoppe
 2. domain button："Domain" container typically includes two values, indicating the lower and upper bounds of the range. This is useful for defining the valid range of values for parameters, ensuring that models or designs stay within reasonable bounds during variations.
 3. void button：A "Void" is typically a user-defined function or component. It is often used to represent a virtual or a placeholder element that doesn't directly perform any specific actions.
 4. gravity and logic（the most interesting part in the video）
-![phone stand](PIC/IMG_6570.jpeg)
+![logic](PIC/Week2/blue or red.jpg)
+This part primarily projects the center of the entire object onto the tabletop, then compares the center with the center of gravity, using logical judgment to provide a color indication. This makes it convenient for designers to adjust parameters while having an early understanding of the model's stability.
+
+
 
 ## Week one report
 
