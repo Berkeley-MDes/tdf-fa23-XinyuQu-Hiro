@@ -15,6 +15,10 @@ This part primarily projects the center of the entire object onto the tabletop, 
 I found a chinese booklet for the basic grasshopper booklet
 [booklet_pdf](https://jinjieming.com/wp-content/uploads/2016/02/Grasshopper%E5%AE%8C%E5%85%A8%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8CV1.0.pdf)
 
+### Revising process
+After making adjustments to the phone's angle, wall thickness, and other aspects based on the video, I discovered that there could be a small storage space in the front of the phone stand for keeping keys, and the bottom could serve as storage while also allowing vertical charging for the phone.
+![phone stand](PIC/Week2/cellphonestand1.jpg)
+![phone stand](PIC/Week2/cellphonestand2.jpg)
 
 
 ## Week one report
