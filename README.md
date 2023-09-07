@@ -12,7 +12,8 @@ first i will follow the youtube video to have more precise idea about grasshoppe
 ![logic](PIC/Week2/bluered.jpg)
 This part primarily projects the center of the entire object onto the tabletop, then compares the center with the center of gravity, using logical judgment to provide a color indication. This makes it convenient for designers to adjust parameters while having an early understanding of the model's stability.
 
-
+### About battery
+[grasshopper booklet]([url](https://jinjieming.com/wp-content/uploads/2016/02/Grasshopper%E5%AE%8C%E5%85%A8%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8CV1.0.pdf)
 
 ## Week one report
 
