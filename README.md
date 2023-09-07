@@ -1,4 +1,5 @@
 # Qu Xinyu Hiro's Document
+
 ## Week Two report
 This week I will adjust more about this cell phone stand
 first i will follow the youtube video to have more precise idea about grasshopper
