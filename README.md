@@ -17,9 +17,26 @@ I found a chinese booklet for the basic grasshopper booklet
 
 ### Revising process
 After making adjustments to the phone's angle, wall thickness, and other aspects based on the video, I discovered that there could be a small storage space in the front of the phone stand for keeping keys, and the bottom could serve as storage while also allowing vertical charging for the phone.
-![phone stand](PIC/Week2/cellphonestand1.jpg)
+![phone stand](PIC/Week2/chargerhole.jpg)
 ![phone stand](PIC/Week2/cellphonestand2.jpg)
 
+adding a charging hole
+1. first make a cylinder as the charger line
+   ![phone stand](PIC/Week2/cellphonestand1.jpg)
+3. generate a surface
+   ![phone stand](PIC/Week2/rotate.jpg)
+5. rotate the cylinder
+6. ![phone stand](PIC/Week2/rotate2.jpg)
+7. adujust the cylinder
+8. stiff
+   ![phone stand](PIC/Week2/stiff.jpg)
+10. bake
+
+![phone stand](PIC/Week2/rendering1.jpg)
+![phone stand](PIC/Week2/rendering2.jpg)
+![phone stand](PIC/Week2/rendering3.jpg)
+
+Thank you for the simple version youtube video, it really helps!! 😊😊😊😊😊😊
 
 ## Week one report
 
