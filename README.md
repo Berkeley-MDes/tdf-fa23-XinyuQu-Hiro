@@ -1,5 +1,25 @@
 # Qu Xinyu Hiro's Document
+## Week Three report
+This week, I continued to deepen my Grasshopper model.
+![logic](PIC/Week3/Snipaste_2023-09-13_20-39-32.jpg)
+This is my mobile phone stand design. I have experience with Rhino but have hardly used Grasshopper. I'm pleased to have learned the basics of parametric design through small-scale modeling in my daily work.
 
+First, based on the existing mobile phone stand, I studied my phone usage habits. In the office environment, I often place my phone vertically, and in this position, the charging cable is prone to bending and damage. So, in my design, I added a space underneath and a charging cable opening. The specific implementation involved creating a cylinder slightly larger than the charging cable, rotating it using a plane, and then boolean subtracting it from the base.
+
+Additionally, I wanted my model to have an organic surface texture. I tried two types of textures and ultimately chose the fractured eggshell-like texture. To achieve this, I first created a rectangular frame of the appropriate area and randomly placed points inside it. We can adjust randomness by changing the seed. 
+![logic](PIC/Week3/Snipaste_2023-09-11_21-22-39.jpg)
+Then, I used a powerful tool called "Voronoi," which divided the irregular polygons like cell walls. I scaled these polygons inward using the "scale" tool, ensuring even spacing between different polygons, and then extruded the polygons. This texture was thus created.
+![logic](PIC/Week3/Snipaste_2023-09-11_21-22-50.jpg)
+
+For the final touches on the model, I returned to Rhino for surface flow, even though I didn't directly use Grasshopper. During this process, I learned the importance of analyzing the UV surface. By checking the direction of the UV surface's axis, I could ensure a consistent orientation, avoiding random results in the surface flow every time.
+![logic](PIC/Week3/Snipaste_2023-09-11_21-51-42.jpg)
+
+In the end, this is my model. I faced a few failed 3D printing attempts, but eventually, I achieved this model.
+
+
+![logic](PIC/Week3/DSC09628.jpg)
+![logic](PIC/Week3/DSC09624.jpg)
+![logic](PIC/Week3/DSC09620.jpg)
 ## Week Two report
 This week I will adjust more about this cell phone stand
 first i will follow the youtube video to have more precise idea about grasshopper
